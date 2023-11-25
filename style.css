@@ -150,3 +150,16 @@ scale -> to enlarge or to shrink the btn from 0.8 to 1.1
     width: 100vw;
     z-index: 1;
 }
+
+.material-icons {
+    color: white;
+    font-size: 3rem;
+}
+
+.gallery {
+    position: absolute;
+    right: 6.5rem;
+    bottom: 4rem;
+    z-index: 2;
+    cursor: pointer;
+}
